@@ -1,0 +1,13 @@
+.idea/
+node_modules/
+built/*
+test-local/*
+test-local/*.js
+test-local/*.js.map
+test-local/*.d.ts
+~*.docx
+*.swp
+*.actual
+*.config
+internal/
+**/.DS_Store
